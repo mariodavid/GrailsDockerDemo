@@ -22,7 +22,7 @@ environments {
     development {
         dataSource {
             dbCreate = "create-drop" // one of 'create', 'create-drop', 'update', 'validate', ''
-            url = "jdbc:postgres://postgres:5432/postgres"
+            url = "jdbc:postgresql://postgres:5432/postgres"
         }
     }
     test {
