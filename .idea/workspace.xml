@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3869c2d7-6945-4669-8030-84b9595beed9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Author.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Author.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Book.groovy" afterPath="$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Book.groovy" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GrailsDockerDemo-grailsPlugins.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GrailsDockerDemo.iml" afterPath="$PROJECT_DIR$/GrailsDockerDemo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GrailsDockerDemo.iws" />
@@ -73,16 +74,16 @@
       <file leaf-file-name="Author.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Author.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="25" selection-start="219" selection-end="219" vertical-scroll-proportion="-10.434783" vertical-offset="0" max-vertical-offset="375">
+            <state line="16" column="25" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Book.groovy" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Book.groovy" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Book.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="26" selection-start="204" selection-end="204" vertical-scroll-proportion="0.4767726" vertical-offset="0" max-vertical-offset="409">
+            <state line="13" column="26" selection-start="204" selection-end="204" vertical-scroll-proportion="-8.478261" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -97,10 +98,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataSource.groovy" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="DataSource.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="28" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+            <state line="36" column="60" selection-start="1304" selection-end="1304" vertical-scroll-proportion="0.3181818" vertical-offset="330" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
@@ -130,9 +131,9 @@
       <list>
         <option value="$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy" />
         <option value="$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy" />
-        <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Author.groovy" />
         <option value="$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Book.groovy" />
+        <option value="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
       </list>
     </option>
   </component>
@@ -168,7 +169,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -225,6 +225,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -241,6 +242,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Grails.Grails:GrailsDockerDemo">
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails" singleton="true">
@@ -344,12 +346,13 @@
       <created>1432114643188</created>
       <updated>1432114643188</updated>
       <workItem from="1432114646635" duration="1791000" />
-      <workItem from="1433427446770" duration="107000" />
+      <workItem from="1433427446770" duration="1021000" />
+      <workItem from="1433430179340" duration="33000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1898000" />
+    <option name="totallyTimeSpent" value="2845000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1276" height="778" extended-state="6" />
@@ -360,14 +363,14 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32944608" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32848838" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Grails View" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298217" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -402,6 +405,41 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Author.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="25" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Book.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="26" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/UrlMappings.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="5" selection-start="249" selection-end="249" vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="28" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="1005">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/BuildConfig.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="57" selection-start="2299" selection-end="2299" vertical-scroll-proportion="0.0" vertical-offset="675" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Author.groovy">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="5" selection-start="168" selection-end="168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
@@ -451,28 +489,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="28" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Author.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="25" selection-start="219" selection-end="219" vertical-scroll-proportion="-10.434783" vertical-offset="0" max-vertical-offset="375">
+        <state line="16" column="25" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="375">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/domain/grailsdockerdemo/Book.groovy">
+      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="26" selection-start="204" selection-end="204" vertical-scroll-proportion="0.4767726" vertical-offset="0" max-vertical-offset="409">
+        <state line="13" column="26" selection-start="204" selection-end="204" vertical-scroll-proportion="-8.478261" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="org.jetbrains.plugins.grails.perspectives.DomainClassesRelationsEditorProvider">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="60" selection-start="1304" selection-end="1304" vertical-scroll-proportion="0.3181818" vertical-offset="330" max-vertical-offset="990">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
@@ -482,7 +520,7 @@
         <entry key="GrailsDockerDemo">
           <value>
             <GrailsSettings>
-              <option name="buildConfigCrc" value="-129828941" />
+              <option name="buildConfigCrc" value="-1835199597" />
               <option name="pluginDependenciesCrc" value="1682136675" />
               <option name="properties">
                 <map>
@@ -493,6 +531,11 @@
                 </map>
               </option>
             </GrailsSettings>
+          </value>
+        </entry>
+        <entry key="GrailsDockerDemo-grailsPlugins">
+          <value>
+            <GrailsSettings />
           </value>
         </entry>
       </map>

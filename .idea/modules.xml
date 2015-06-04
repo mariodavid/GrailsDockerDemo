@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GrailsDockerDemo.iml" filepath="$PROJECT_DIR$/GrailsDockerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GrailsDockerDemo-grailsPlugins.iml" filepath="$PROJECT_DIR$/GrailsDockerDemo-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
