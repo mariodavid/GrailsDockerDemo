@@ -9,4 +9,8 @@ class Book {
 
     static constraints = {
     }
+
+    String toString() {
+        "$titel ($author)"
+    }
 }
