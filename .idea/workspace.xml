@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3869c2d7-6945-4669-8030-84b9595beed9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GrailsDockerDemo-grailsPlugins.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/GrailsDockerDemo-0.1.war" afterPath="$PROJECT_DIR$/target/GrailsDockerDemo-0.1.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" afterPath="$PROJECT_DIR$/grails-app/conf/DataSource.groovy" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GrailsDockerDemo.iml" afterPath="$PROJECT_DIR$/GrailsDockerDemo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="GrailsDockerDemo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -101,7 +98,7 @@
       <file leaf-file-name="DataSource.groovy" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="60" selection-start="1304" selection-end="1304" vertical-scroll-proportion="0.3181818" vertical-offset="330" max-vertical-offset="990">
+            <state line="4" column="16" selection-start="94" selection-end="94" vertical-scroll-proportion="0.09090909" vertical-offset="0" max-vertical-offset="990">
               <folding />
             </state>
           </provider>
@@ -347,12 +344,12 @@
       <updated>1432114643188</updated>
       <workItem from="1432114646635" duration="1791000" />
       <workItem from="1433427446770" duration="1021000" />
-      <workItem from="1433430179340" duration="33000" />
+      <workItem from="1433430179340" duration="198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2845000" />
+    <option name="totallyTimeSpent" value="3010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="22" width="1276" height="778" extended-state="6" />
@@ -508,7 +505,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/grails-app/conf/DataSource.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="60" selection-start="1304" selection-end="1304" vertical-scroll-proportion="0.3181818" vertical-offset="330" max-vertical-offset="990">
+        <state line="4" column="16" selection-start="94" selection-end="94" vertical-scroll-proportion="0.09090909" vertical-offset="0" max-vertical-offset="990">
           <folding />
         </state>
       </provider>
